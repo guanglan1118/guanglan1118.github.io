@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "guanglan"
+  name             : "Guanglan"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "The Chinese University of Hong Kong"
   location         : "Memphis, United States"
   employer         :
   pubmed           : 
