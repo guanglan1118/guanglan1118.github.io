@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Guanglan Lin"
-description              : "Computational biomedical researcher"
+title                    : "Guanglan Lin, Ph.D."
+description              : "Computational Cancer Genomics & Pharmacogenomics"
 repository               : "guanglan1118.github.io"
 google_scholar_stats_use_cdn : true
 
