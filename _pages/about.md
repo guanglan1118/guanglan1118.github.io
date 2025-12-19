@@ -58,21 +58,32 @@ I am currently transitioning fully into **computational and data-driven biomedic
 ## Selected Publications
 
 ### Pediatric Acute Lymphoblastic Leukemia
-- **Tong PYG**, **Lin G**, Li CK, et al.  
+- Tong PYG, **Lin G**, Li CK, et al.  
   *Pediatric Blood & Cancer*, 2025. PMID: 39878315  
-  *Homoharringtonine in Relapsed/Refractory Pediatric T-Cell Acute Lymphoblastic Leukemia:  
+  *Homoharringtonine in Relapsed/Refractory Paediatric T-Cell Acute Lymphoblastic Leukaemia —  
   A Case Series and a Report on the Use of In Vitro Drug Profiling.*
 
-- Zhang C, Chan KYY, Ng WH, **Lin G**, Leung KTL, et al.  
+- Zhang C, Chan KYY, Ng WH, Cheung JTK, Sun Q, Wang H, Chung PY, Cheng FWT, Leung AWK, Zhang X-B, Lee PY, Fok SP, **Lin G**, Leung KTL, et al.  
   *Haematologica*, 2024. PMID: 38572553
 
 ### Solid Tumor (Breast / Lung / Liver Cancer)
 - Jiang YP, Liao WJ, Xin QL, Wang R, **Lin G**, Xu N, et al.  
-  *Genes & Diseases*, 2025. DOI: 10.1016/j.gendis.2025.101684
+  *Genes & Diseases*, 2025. DOI: 10.1016/j.gendis.2025.101684  
+  *Nuclear and cytoplasmic USP30-AS1 coordinately regulate breast cancer progression through HnRNPF/p21 and EZH2/c-Myc/p21 axes.*
 
 - **Lin G**, Li J, Xu N, et al.  
   *Journal of Cancer*, 2021. PMID: 34659561  
   *RNA-binding protein MBNL2 regulates cancer cell metastasis through miR-182–MBNL2–AKT.*
+
+- +3 additional peer-reviewed papers (PMID: 33466733; 34948132; 31534127)
+
+### Microbiology (Aspergillus flavus)
+- Zhang M, **Lin G** (equal contribution), Zhuang Z, et al.  
+  *IMA Fungus*, 2021. PMID: 34006318  
+  *The PHD transcription factor Cti6 is involved in the fungal colonization and aflatoxin B1 biological synthesis of Aspergillus flavus.*
+
+- +2 additional peer-reviewed papers (PMID: 30264213; 30036940)
+
 
 ---
 
